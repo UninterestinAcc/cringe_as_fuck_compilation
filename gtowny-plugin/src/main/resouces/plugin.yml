@@ -1,0 +1,29 @@
+name: GTowny
+version: 1
+main: org.reborncraft.gtowny.GTowny
+author: LolDatSec / GrumpyCowOG
+description: Towny (yay)
+depend: [Vault]
+commands:
+  t:
+    description: Town command.
+  town:
+    description: Town command alias.
+  towns:
+    description: Town command alias.
+  c:
+    description: Chunk command.
+  chunk:
+    description: Chunk command alias.
+  chunks:
+    description: Chunk command alias.
+  user:
+    description: User command.
+  spawn:
+    description: Teleport to spawn.
+  tc:
+    description: Alias to /town chat.
+  towny:
+    description: Towny admin / stats / info command.
+  gtowny:
+    description: Reserved useless command.

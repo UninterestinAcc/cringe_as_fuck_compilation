@@ -1,0 +1,5 @@
+# Permissions:
+# utils.status # Status command
+# utils.isstaff # Is a staff
+# utils.isstaff.hidden # Invisible staff
+# utils.seehiddenstaff # See Invisible staff

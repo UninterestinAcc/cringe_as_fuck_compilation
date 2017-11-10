@@ -1,0 +1,9 @@
+name: PrisonRankup
+version: 1.0
+main: me.stefan15ist.PrisonRankup.Main
+author: hy
+description: Prison rankup
+commands:
+  rankup:
+    description: Rankup.
+    usage: /<command>

@@ -1,0 +1,11 @@
+name: CreativeSecurity
+version: 1.0
+main: io.github.loldatsec.mcplugs.creativesecurity.CreativeSecurity
+author: hy
+description: Creative security / safety patches
+commands:
+  cleaninventory:
+    description: Clears Inventory of player
+  clearinventory:
+    description: Clears Inventory of player
+    

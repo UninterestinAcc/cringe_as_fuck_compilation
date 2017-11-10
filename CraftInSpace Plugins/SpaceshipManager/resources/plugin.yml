@@ -1,0 +1,4 @@
+name: SpaceshipManager
+version: PrivateBeta-b4
+main: space.craftin.plugin.spaceshipmanager.SpaceshipManager
+softdepend: [CraftInSpace]

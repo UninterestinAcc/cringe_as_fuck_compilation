@@ -1,0 +1,32 @@
+name: HaloPlus
+version: 1.1
+main: io.github.loldatsec.mcplugins.haloplus.HaloPlus
+author: hy
+description: Halo Main plugin
+commands:
+  spectate:
+    description: Spectate
+  spec:
+    description: Spectate
+  view:
+    description: Spectate
+  gmc:
+    description: Creative
+  gms:
+    description: Survival
+  vanish:
+    description: Vanish
+  leave:
+    description: Leave
+  start:
+    description: Vote start
+  game:
+    description: Game
+  games:
+    description: Game
+  stats:
+    description: Stats
+  stat:
+    description: Stats
+  onvoteaction:
+    description: Player vote

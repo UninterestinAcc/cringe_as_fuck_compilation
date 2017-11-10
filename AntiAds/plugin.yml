@@ -1,0 +1,9 @@
+name: AntiAds
+version: 1.69
+main: io.github.loldatsec.mcplugs.antiads.Main
+author: Matt (hy)
+description: Anti-Advertisement plugin.
+commands:
+  aaconf:
+    description: Anti-advertising configuration.
+    usage: /<command>

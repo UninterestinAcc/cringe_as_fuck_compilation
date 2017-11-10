@@ -1,0 +1,20 @@
+name: UsernameWhitelist
+version: 1.0
+author: GrumpyCowRC
+main: io.github.loldatsec.mcplugins.unwhitelist.UnWhitelist
+commands:
+  wl:
+    usage: /wl <add|remove|list|reload> [username]
+    description: WhiteList command
+  whitelist:
+    usage: /wl <add|remove|list|reload> [username]
+    description: WhiteList command
+permissions:
+  whitelist.*:
+    description: Permissions to manage the whitelist
+    default: false
+    children:
+      whitelist.admin: true
+  whitelist.admin:
+    default: false
+    description: Anyone witthis permission can edit and reload the whitelist.

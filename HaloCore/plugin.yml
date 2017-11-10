@@ -1,0 +1,54 @@
+name: HaloCore
+version: 1.69
+main: io.github.loldatsec.mcplugs.halocore.Main
+author: hy
+description: Halo Minigame events.
+commands:
+  spawn:
+    description: Teleport to spawn.
+    usage: /<command>
+  tpo:
+    description: Teleport to player.
+    usage: /<command> <player>
+  tpto:
+    description: Teleport to player.
+    usage: /<command> <player>
+  gms:
+    description: Set gamemode to survival.
+    usage: /<command>
+  gmc:
+    description: Set gamemode to creative.
+    usage: /<command>
+  gmspec:
+    description: Set gamemode to spectator.
+    usage: /<command>
+  fly:
+    description: Toggle flying.
+    usage: /<command
+  ci:
+    description: Clear inventory.
+    usage: /<command>
+  addkills:
+    description: Add kills to a player.
+    usage: /<command> <name> <int>
+  setkills:
+    description: Set kills of a player.
+    usage: /<command> <name> <int>
+  remkills:
+    description: Remove kills from a player.
+    usage: /<command> <name> <int>
+  ce:
+    description: Clear all entities.
+    usage: /<command>
+  clearent:
+    description: Clear all entities.
+    usage: /<command>
+  onvoteaction:
+    description: Vote action
+    usage: /<command>
+  deathbattle:
+    description: Start a deathbattle
+    usage: /<command>
+  distancetospawn:
+    description: Check distance to world spawn
+    usage: /<command>

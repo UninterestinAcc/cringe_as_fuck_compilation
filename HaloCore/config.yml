@@ -1,0 +1,20 @@
+### Permissions ### Description
+# halocore.loginbc # Broadcasts login
+# halocore.supresslogin # Supresses login broadcast
+# halocore.status # Get status about server.
+# halocore.diamondhelmet # Diamond helmet
+# halocore.startdeathbattle # Start a round of deathbattle
+# halocore.exemptdeathbattle # Exemption from deathbattle
+# halocore.tpo # Force TP
+# halocore.gmc # Creative
+# halocore.gms # Survival
+# halocore.gmspec # Spectator
+# halocore.fly # Fly
+# halocore.ci # ClearInventory
+# halocore.kit.donator # Donator Kit
+# halocore.kit.all # All kits
+# halocore.allowinvclick # Click in inventory
+# halocore.build # Build
+# halocore.setsign # Set a sign
+# halocore.changekillcount # Change a player's killcount
+# halocore.clearentities # Clear entities

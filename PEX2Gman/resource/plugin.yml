@@ -1,0 +1,13 @@
+name: Pex2Gman
+author: Reborncraft
+version: 1
+main: co.reborncraft.pex2gman.Pex2Gman
+commands:
+  pex:
+    description: PermissionsEx2GroupManager bridge command.
+  p2g:
+    description: PermissionsEx2GroupManager bridge command.
+  pex2gman:
+    description: PermissionsEx2GroupManager bridge command.
+  permissionsex:
+    description: PermissionsEx2GroupManager bridge command.

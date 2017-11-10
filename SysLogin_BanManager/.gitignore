@@ -1,0 +1,15 @@
+.idea/
+*.iml
+out/
+target/
+config.yml
+modules.yml
+BungeeCord.jar
+start.sh
+debug.sh
+proxy.log*
+modules/
+plugins/
+Spigot/
+cloudcord-specs.txt
+src/test/resource/

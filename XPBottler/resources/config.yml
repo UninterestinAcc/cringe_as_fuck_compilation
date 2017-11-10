@@ -1,0 +1,14 @@
+requirePermissions: false
+conversionFactor: 22
+
+
+message:
+  bottled: '&aBottled &7{xptook}xp &ainto xp bottles.'
+  reloaded: '&aConfig reloaded.'
+  notplayer: '&cOnly a player can use /xpbottle.'
+  inventory:
+    name: '&2&lXPBottler'
+  fail:
+    noreloadperms: '&cYou don''t have perms to reload XPBottler.'
+    notenoughxp: '&cYou don''t even have enough XP to make a bottle...'
+    toomuchxp: '&cYou have way too many xp to convert.'

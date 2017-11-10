@@ -1,0 +1,13 @@
+name: RTP
+main: co.reborncraft.rtp.RTP
+author: Reborncraft
+version: 1
+commands:
+  rtp:
+    description: "Randomly TPs you somewhere. (Do /rtp reload to reload config.)"
+    alias: [randomtp, wild]
+permission:
+  rtp.bypasscooldown:
+      description: "Bypass the random TP cooldown."
+  rtp.reload:
+    description: "Admin permission - reload config with /rtp reload."

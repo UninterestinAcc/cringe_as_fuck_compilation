@@ -1,0 +1,12 @@
+name: QuickDP
+version: 1
+author: Reborncraft
+main: co.reborncraft.quickdp.QuickDP
+commands:
+  setdpcontents:
+    description: Set the contents for QuickDP.
+  dodp:
+    description: Do a DP, taking the argument as replication count.
+permissions:
+  quickdp.admin:
+    description: Start DP and set DP contents.

@@ -1,0 +1,5 @@
+name: CIS_WorldGenerator
+version: PrivateBeta-b4
+main: space.craftin.plugin.worldgen.CraftInSpaceWorldGenPlugin
+load: STARTUP
+softdepend: [CraftInSpace]

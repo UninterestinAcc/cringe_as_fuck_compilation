@@ -1,0 +1,11 @@
+prefix: '&4[&cCombat&4] &7'
+messages:
+  combat:
+    initiate: 'You are now in combat. (This will timeout in {time} seconds.)'
+    actionbarinfo: '&lwill deactivate in &6&l{time}&7&l seconds,'
+  deny:
+    teleport: 'You cannot teleport while in combat.'
+  end:
+    timeout: 'Your are no longer in combat.'
+    logout-broadcast: '&6&l{player}&7 ended a fight by logging out. smh'
+timeout: 30

@@ -1,0 +1,12 @@
+name: SuperBanners
+version: 1.1
+main: io.github.loldatsec.mcplugs.superbanners.SuperBannersMain
+author: LolDatSec
+description: Make banners, get presets, and more!
+commands:
+  superbanner:
+    description: Superbanners main command.
+    usage: /<command> <player>
+  sb:
+    description: Superbanners main command.
+    usage: /<command> <player>

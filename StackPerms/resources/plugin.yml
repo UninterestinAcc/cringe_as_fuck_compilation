@@ -1,0 +1,24 @@
+name: StackPerms
+version: 1
+author: Reborncraft
+main: co.reborncraft.stackperms.StackPerms
+commands:
+  stackperms:
+    description: StackPerms interfacing command.
+    alias: [stackperm]
+  promote:
+    description: Promotes the player to group.
+  demote:
+    description: Demotes the player from group.
+  chargeback:
+    description: Demotes the player of all ranks and writes to chargeback webhook.
+  testpermission:
+    description: Checks if the player has the permission.
+    alias: [testpermissions]
+permissions:
+  stackperms.launchcontroller:
+    default: false
+    description: Gives permissions to start the controller serverlet.
+  stackperms.commands:
+    default: false
+    description: Allows the usage of stackperms commands.

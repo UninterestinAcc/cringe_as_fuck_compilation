@@ -1,0 +1,5 @@
+name: OpBook
+version: 1.0
+main: io.github.loldatsec.mcplugs.opbook.OpBook
+author: hy
+description: Anti 1HitBook

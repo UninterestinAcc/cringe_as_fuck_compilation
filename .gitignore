@@ -1,0 +1,16 @@
+*/.idea
+*/.settings
+bin
+classes
+target
+out
+*/modules
+
+*/.classpath
+*/.project
+*.iml
+
+*.jar
+
+META-INF
+Manifest.mf

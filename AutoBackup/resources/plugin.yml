@@ -1,0 +1,8 @@
+main: co.reborncraft.autobackup.AutoBackup
+author: Reborncraft
+version: 1
+name: AutoBackup
+commands:
+  autobackup:
+    description: Autobackup command
+    alias: [backup]

@@ -1,0 +1,10 @@
+name: Vanish
+version: 1.0
+main: io.github.loldatsec.mcplugs.vanish.Vanish
+author: hy
+description: Vanish
+commands:
+  vanish:
+    description: Vanish
+  v:
+    description: Vanish

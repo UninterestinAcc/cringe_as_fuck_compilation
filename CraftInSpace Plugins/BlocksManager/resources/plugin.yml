@@ -1,0 +1,7 @@
+name: BlocksManager
+version: PrivateBeta-b4
+main: space.craftin.plugin.blocks.BlocksManager
+softdepend: [CraftInSpace, ProtocolLib]
+commands:
+  blocks: # DEBUG Free blocks in beta :D :D
+    description: Displays all blocks, every thing up for grabs.

@@ -1,0 +1,11 @@
+name: ChunkTools
+main: co.reborncraft.chunktools.ChunkTools
+author: Reborncraft
+version: 1
+commands:
+  chunktool:
+    description: Chunktools main command
+    alias: [chunktools, ct]
+permissions:
+  chunktool.regen:
+    description: Use the regenerate chunk feature.

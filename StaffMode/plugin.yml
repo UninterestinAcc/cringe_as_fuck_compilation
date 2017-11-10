@@ -1,0 +1,11 @@
+name: StaffMode
+version: 1.1
+main: io.github.loldatsec.mcplugins.staffmode.StaffMode
+author: hy
+description: StaffMode plugin
+commands:
+  staffmode:
+    description: Staffmode
+  sm:
+    description: Staffmode
+    

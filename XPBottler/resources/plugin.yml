@@ -1,0 +1,13 @@
+name: XPBottler
+version: 1
+main: co.reborncraft.xpbottler.XPBottler
+author: Reborncraft
+commands:
+  xpbottle:
+    description: "Bottle your XP into xp bottles"
+    alias: [xpbottler, bottlexp, storexp, bottle]
+permissions:
+  xpbottler.reload:
+    description: "Grants the ability to reload via /xpbottler reload (if requirePermissions is set, ofcourse...)"
+  xpbottler.use:
+    description: "Lets the player use /xpbottle"

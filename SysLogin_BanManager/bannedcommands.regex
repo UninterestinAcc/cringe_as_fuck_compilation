@@ -1,0 +1,45 @@
+# Groupmanager cunts love these commands
+op
+deop
+.+:op
+.+:deop
+
+# Bukkit built in commands designed to make you kys
+\?
+icanhasbukkit
+about
+help
+pl
+plugins
+ver
+version
+bukkit:.+
+
+# Don't even...
+minecraft:.+
+stop
+restart
+
+# Plugman Restrictions
+plugman:.+
+plugman
+# pm is overridden by chat plugins like essentials.
+
+# Asshole commands that are commonly abused
+.+:me
+essentials:.+
+e?(me|action|describe)
+
+# Retards love to use these and break like everything
+reload
+.+:reload
+
+# Abused permissions
+groupmanager:.+
+manuadd[vp]
+
+# Ban manager overrides, just to prevent mistakes
+ipban
+permban
+banlist
+listbans?

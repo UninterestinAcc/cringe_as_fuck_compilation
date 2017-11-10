@@ -1,0 +1,74 @@
+groups:
+  Owner:
+    stack: Administration
+    prefix: '&8[&5&lOwner&8]&5'
+    permissions:
+    - '*'
+    rank: 1.0
+    suffix: " &7> &d"
+  Co_Owner:
+    stack: Administration
+    prefix: '&8[&5&lCo-Owner&8]&5'
+    permissions:
+    - '*'
+    rank: 2.0
+    suffix: ' &7> &d'
+  Senior_Admin:
+    stack: Administration
+    prefix: '&8[&4Sr. Admin&8]&c'
+    permissions:
+    - '*'
+    rank: 3.0
+    suffix: " &7> &c"
+  Admin:
+    stack: Administration
+    prefix: '&8[&4Admin&8]&c'
+    permissions:
+    - '*'
+    rank: 4.0
+    suffix: ' &7> &c'
+  Developer:
+    stack: Development
+    prefix: '&8[&3Developer&8]&3'
+    permissions:
+    - '*'
+    rank: 1.0
+    suffix: ' &7> &b'
+  Senior_Mod:
+    stack: Staff
+    prefix: '&e[&6Sr. Mod&e]&6'
+    rank: 1.0
+    suffix: " &7> &b"
+  Mod:
+    stack: Staff
+    prefix: '&3[&bMod&3]&b'
+    rank: 2.0
+    suffix: " &7> &b"
+  Trial_Mod:
+    stack: Staff
+    prefix: '&8[&5Trial-Mod&5]&d'
+    rank: 3.0
+    suffix: " &7> &b"
+  Member:
+    stack: VoteRanks
+    prefix: '&c(&7Member&c)'
+    permissions:
+    - essentials.tpahere
+    - essentials.mail.send
+    - essentials.home
+    - essentials.warp
+    - essentials.tpdeny
+    - essentials.mail
+    - essentials.kit
+    - essentials.tpaccept
+    - essentials.seen
+    - essentials.ping
+    - essentials.spawn
+    - essentials.clearinventory
+    - essentials.back
+    - essentials.msg
+    - essentials.pay
+    - essentials.kits.member
+    - essentials.tpa
+    rank: 100.0
+    suffix: " &7> &b"

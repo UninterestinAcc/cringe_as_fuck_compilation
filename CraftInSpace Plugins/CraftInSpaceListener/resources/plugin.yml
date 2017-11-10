@@ -1,0 +1,5 @@
+name: CIS_Listener
+version: PrivateBeta-b4
+main: space.craftin.plugin.listener.CraftInSpaceListenerPlugin
+load: POSTWORLD
+softdepend: [CraftInSpace, ProtocolLib]

@@ -1,0 +1,4 @@
+name: SparkMetrics
+version: PrivateBeta-b4
+main: space.craftin.plugin.sparkmetrics.SparkMetrics
+

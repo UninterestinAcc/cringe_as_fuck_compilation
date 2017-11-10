@@ -1,0 +1,12 @@
+stacks:
+  Administration:
+    weight: 1
+  Development:
+    weight: 2
+  Staff:
+    weight: 3
+  DonatorRanks:
+    weight: 4
+  VoteRanks:
+    weight: 5
+    defaultGroup: Member

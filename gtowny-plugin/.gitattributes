@@ -1,0 +1,10 @@
+* text eol=crlf
+
+.java text
+.csv text
+.md text
+.yml text
+.sql text
+
+.class binary
+.jar binary

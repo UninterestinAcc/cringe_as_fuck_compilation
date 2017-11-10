@@ -1,0 +1,24 @@
+name: CraftInSpace
+version: PrivateBeta-b4
+main: space.craftin.plugin.core.CraftInSpace
+load: STARTUP
+softdepend: [ProtocolLib]
+commands:
+  cis:
+    description: CraftInSpace main command.
+  cishelp:
+    description: Alias of /cis help
+  f:
+    description: Alias of /faction
+  fac:
+    description: Alias of /faction
+  facs:
+    description: Alias of /faction
+  faction:
+    description: Faction command.
+  factions:
+    description: Alias of /faction
+  s:
+    description: Alias of /ship
+  ship:
+    description: "Creates a ship bound to the player's alliance."

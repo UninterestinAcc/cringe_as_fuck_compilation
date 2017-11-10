@@ -1,0 +1,24 @@
+name: OfflineInventories
+version: 1.3-univ-versions:1.8;1.9;
+main: io.github.loldatsec.mcplugs.offlineinventories.OfflineInventoriesMain
+author: LolDatSec
+description: View offline player's inventories
+commands:
+  offlineinventory:
+    description: See a offliner's inventory.
+    usage: /<command> <player>
+  oiseeinv:
+    description: See a offliner's inventory.
+    usage: /<command> <player>
+  oinv:
+    description: See a offliner's inventory.
+    usage: /<command> <player>
+  offlineenderchest:
+    description: See a offliner's enderchest.
+    usage: /<command> <player>
+  oienderchest:
+    description: See a offliner's enderchest.
+    usage: /<command> <player>
+  oec:
+    description: See a offliner's enderchest.
+    usage: /<command> <player>

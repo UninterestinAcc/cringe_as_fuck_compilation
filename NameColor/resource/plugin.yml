@@ -1,0 +1,10 @@
+name: NameColor
+version: 1
+author: Reborncraft
+main: co.reborncraft.namecolor.NameColor
+depends: [ProtocolLib]
+commands:
+  namecolor:
+    description: Changes the color of your name.
+  namecolour:
+    description: Changes the colour of your name.

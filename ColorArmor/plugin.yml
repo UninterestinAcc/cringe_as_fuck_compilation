@@ -1,0 +1,9 @@
+name: ColorArmor
+version: 1
+main: io.github.loldatsec.mcplugs.colorarmor.ColorArmorMain
+author: LolDatSec
+description: Color armor!!
+commands:
+  ca:
+    description: Activate coloured-armor. :D
+    usage: /<command>    

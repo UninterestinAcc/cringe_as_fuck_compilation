@@ -1,0 +1,43 @@
+name: UtilsCore
+version: 1
+main: biz.reborncraft.minigames.utilscore.Main
+author: hy
+description: Basic utitilities.
+commands:
+  msg:
+    description: Private message someone.
+  m:
+    description: Private message someone.
+  whisper:
+    description: Private message someone.
+  w:
+    description: Private message someone.
+  tell:
+    description: Private message someone.
+  t:
+    description: Private message someone.
+  reply:
+    description: Private reply someone.
+  r:
+    description: Private reply someone.
+  pm:
+    description: Private message someone.
+  status:
+    description: Get server memory status.
+  gc:
+    description: Get server memory status.
+  lag:
+    description: Get server memory status.
+  mem:
+    description: Get server memory status.
+  list:
+    description: List all online players.
+  who:
+    description: List all online players.
+  online:
+    description: List all online players.
+  people:
+    description: List all online players.
+  staff:
+    description: List all online staffs.
+    

@@ -1,0 +1,22 @@
+name: PvPLeaderBoard
+version: 1.0
+main: io.github.loldatsec.mcplugs.pvpleaderboard.myMainClass
+author: LolDatSec (hy)
+description: PvPLeaderBoard packed full of features (online players online though) /stat(s) to check a player's k/d stat, and pvplb signs for the leaderboard!
+commands:
+  stat:
+    description: Check your statistics.
+    usage: /<command> [player=you]
+  stats:
+    description: Check your statistics.
+    usage: /<command> [player=you]
+  setlbcounter:
+    description: Set the counter.
+    usage: /<command> <int>
+    permission: pvpleaderboard.changecounter
+    permission-message: You don't have the permission <permission>!
+  clearsigns:
+    description: Delete all signs.
+    usage: /<command>
+    permission: pvpleaderboard.clearsigns
+    permission-message: You don't have the permission <permission>!

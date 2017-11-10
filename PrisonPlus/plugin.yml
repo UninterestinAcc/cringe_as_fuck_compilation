@@ -1,0 +1,77 @@
+name: PrisonPlus
+version: 1.0
+main: io.github.loldatsec.mcplugs.prisonplus.PrisonPlus
+author: hy
+description: Prison utilities
+softdepend: [Vault]
+load: POSTWORLD
+commands:
+  voteaction:
+    description: Action performed on vote. (CONSOLE ONLY)
+    usage: /<command>
+  donatesuperpick:
+    description: Action performed on the donation of a superpick. (CONSOLE ONLY)
+    usage: /<command>
+  voteparty:
+    description: Start a VoteParty. (CONSOLE ONLY)
+    usage: /<command>
+  forceresetmines:
+    description: Start a VoteParty. (ADMIN ONLY)
+    usage: /<command>
+  voting:
+    description: Help about voting.
+    usage: /<command>
+  voterank:
+    description: Earn the voter rank by exchanging 180 nether stars!
+    usage: /<command>
+  voteperk:
+    description: Earn perks by exchanging nether stars!
+    usage: /<command>
+  voteshop:
+    description: Earn items by exchanging nether stars!
+    usage: /<command>
+  autosell:
+    description: Toggle autosell of your items.
+    usage: /<command>
+  autoorganize:
+    description: Toggle autoorganization of your items. (smelt + stack)
+    usage: /<command>
+  superbreaker:
+    description: Toggle superbreaking of blocks.
+    usage: /<command>
+  s:
+    description: Sell your items.
+    usage: /<command>
+  sell:
+    description: Sell your items.
+    usage: /<command>
+  sellall:
+    description: Sell your items.
+    usage: /<command>
+  st:
+    description: Stack your items.
+    usage: /<command>
+  stack:
+    description: Stack your items.
+    usage: /<command>
+  sm:
+    description: Smelt your items.
+    usage: /<command>
+  smelt:
+    description: Smelt your items.
+    usage: /<command>
+  nv:
+    description: Get night vision.
+    usage: /<command>
+  pay:
+    description: Pay another player some money
+    usage: /<command> <player> <amount>
+  rankup:
+    descriontion: Rankup command
+    usage: /<command> <option>
+  ranks:
+    descriontion: Ranks command
+    usage: /<command> <option>
+  setboost:
+    descriontion: Set player's sellboost amount
+    usage: /<command> <player> <amount>

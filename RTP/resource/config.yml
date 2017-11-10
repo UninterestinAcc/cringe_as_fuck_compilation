@@ -1,0 +1,15 @@
+radius:
+  min: 300
+  max: 6250
+
+cooldown: 14400 # 4 hours
+
+message:
+  cooldown: '&cYou must wait &7{time} &cto RTP again.'
+  success: '&aYou have been teleported to &7{location}'
+  reloaded: '&aConfig reloaded.'
+  notplayer: '&cOnly a player can RTP...'
+  fail:
+    noreloadperms: '&cYou don''t have perms to reload RTP.'
+    blocked: '&cTeleport failed. :('
+    toomanyiter: '&cFailed to find a suitable location within &7500 &citerations, please try again!'

@@ -1,0 +1,5 @@
+name: AntiFastHeal
+version: 1.1.2
+main: io.github.loldatsec.mcplugs.antifastheal.AntiFastHeal
+author: hy
+description: Stops hackers from healing too fast. :) And a bit more.

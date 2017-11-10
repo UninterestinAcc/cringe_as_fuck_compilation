@@ -1,0 +1,5 @@
+name: SysLogin_BanManager
+main: co.reborncraft.syslogin_banmanager.SysLogin_BanManager
+version: 4.0
+author: Reborncraft
+depends: [CloudCord, NuVotifier]

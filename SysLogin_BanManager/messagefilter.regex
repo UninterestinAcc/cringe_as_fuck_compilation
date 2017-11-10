@@ -1,0 +1,121 @@
+# Anti wannabe advertisement
+aternos.+(me|org)
+server.+pro
+myserver.+gs
+(g-s|serv).+nu
+(mygs|mcph).+co
+((25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)\.){3}(25[0-5]|2[0-4][0-9]|[01]?[0-9][0-9]?)
+25565
+no.{0,2}ip
+ddns
+gameserv.+co
+mcsp.+tk
+fluctis
+(play|server|join|minecraft|pvp|mc)\.([^.]+)\.(com|net|org)
+apps.?bazaar.+in
+
+# Anti advertisement filter bypass
+.+[!-,\/:-@\[-`\{-~]((d(o|0)+(t|7)|\.)|(p(o|0)+(i|1|!|l)+n+t)|\.)[!-,\/:-@\[-`\{-~].+
+
+# Anti advertisement v2 (desperate cunts)
+(join|come).+(new|server|(op.?(prison|faction)))
+free.+(op|rank|don(n?o|at[eo])r)
+\sip\s?:\s
+(server|mc|play).+(network|pvp)
+
+# Common filter bypasses for TLD com, net and org
+c[\s_]+o[\s_]+m
+n[\s_]+e[\s_]+t
+o[\s_]+r[\s_]+g
+
+# Using a lot of spaces between words
+[\s_]+(\S[\s_]+){3,}\S
+
+# Using full width characters to chat
+[！-･]
+
+# Cunts who have advertised in the past
+# GodZain101 - play.strafeZ-network.com
+strafez.+network
+# Yhiita - frozenmines.serv.nu
+frozen.*mines
+# xXDarkSoulXx - sw.cosmicpe.me
+cosmicpe.+me
+# Mazubaki - holyh.cf
+holyh.*cf
+# horan777 - mc.urmagix.com
+urmagix
+# Slyerx - syuu.net
+s.{0,2}y.{0,2}u.{0,2}u
+# SamukaXTK - sharpcloud.serv.nu
+sharp.*cloud
+# MrDetective - mc.divictusgaming.com
+divictus.*gaming
+# CFRadianss
+cfradian
+# xxx126 - mc.infinitycraft.es
+infinity.*craft
+# lucazade2k11 - mc.infinitycraft.es
+dream.*legion
+
+# Anti advertisements of big servers
+archon
+arefy
+arkham
+arson.?pvp
+ba+d.?li+o+n
+centrix
+chemist.?kraft
+comsic.?craft
+conspiracy.?craft
+cosmic.?(craft|pe|pvp|server)
+cube.?craft
+excide.?hcf
+extreme.?craft
+flux.?craft
+frost.?hcf
+frost.?realm
+got.?pvp
+guild.?craft
+hc.?games?
+hc.?teams?
+hc.?zone
+hive.?mc
+holy.?hcf
+hydra.?pvp
+hy.?pixel
+jartex
+lifeboat
+lotus.?hcf
+mine.?hq
+mine.?plex
+mystic.?realm
+ovid.?hcf
+para.?pvp
+\spara\s
+pika
+powerful.?mc
+prime.?mc
+pulse.?pvp
+pvp.?lounge
+random.?craft
+sarefine
+shotbow
+the.?hive
+uprising.?mc
+valux
+velt.?pvp
+vile.?hcf
+viper.?hcf
+vitality.?hcf
+wyvern
+yofou.?hcf
+
+# Anti toxicity
+k[^a-z]*y[^a-z]*s([^a-rt-z]|$)
+kill?.*((yo)?u'?re?|my|them).*sel(f|ve?s)
+fucking\s+12
+
+# Anti cunts
+(hack|ddos|lag)(e?d)? by
+best.{0,3}client

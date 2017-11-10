@@ -1,0 +1,11 @@
+# Private message harassment
+^/e?((m(sg)?|t(ell)?|w(hisper)?|pm) \w+|r(eply)?) .+$
+
+# TPA spam
+^/e?(tpa(here|sk|all)?|call) .+$
+
+# Factions create / disband / tag spam
+^/f(ac(tion)?s?)? (t(ag)?|create?|disband) .+$
+
+# Strict anti filter-bypass
+^/[^:]+:.+$

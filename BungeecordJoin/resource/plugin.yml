@@ -1,0 +1,5 @@
+name: BungeecordJoin
+version: 1
+main: co.reborncraft.bungeecordjoin.BungeecordJoin
+author: Reborncraft
+description: Prevents joining from IPs that are not our bungeecord servers.

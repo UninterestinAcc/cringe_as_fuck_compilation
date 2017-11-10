@@ -1,0 +1,12 @@
+# Permission:
+#  - clans.create
+#  - clans.clean
+#  - clans.delete
+#  - clans.startclanwars
+clans:
+- Server:
+    Owner:
+    - Console
+    Mod: []
+    Ally: []
+    Member: []

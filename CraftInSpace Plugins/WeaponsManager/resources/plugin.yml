@@ -1,0 +1,7 @@
+name: WeaponsManager
+version: PrivateBeta-b4
+main: space.craftin.plugin.weapons.WeaponsManager
+softdepend: [CraftInSpace, BlocksManager]
+commands:
+  placemissile:
+    description: Place a decorative, immovable missile.
